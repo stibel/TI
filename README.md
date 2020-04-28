@@ -2,7 +2,7 @@
 <html>  
   <body>
     <div style="text-align:center;background-color:lightblue;border:5px solid blue;color:blue;font-family:'Courier New';font-size:24px">
-     <h1>ROSYJSKIE OKRĘTY O NAPĘDZIE ATOMOWYM</h3>
+     <h1>ROSYJSKIE OKRĘTY O NAPĘDZIE ATOMOWYM</h1>
     </div>
    <h2> Początek atomowych okrętów podwodnych </h2>
    <p>
