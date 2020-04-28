@@ -1,10 +1,11 @@
 # TI
-<html>
-  
+<html>  
   <body>
-    <h1><div style= "
-font-family:Helvetica;font-size:35px;color:blue "> 
-      Radzieckie okręty o napędzie atomowym </div></h1>
+    <div style="text-align:center;border:1px solid blue;font-family:'Courier New';font-size:24px;color:blue">
+      <h1
+       Radzieckie okręty o napędzie atomowym
+      </h1>
+    </div>
     <h2> Początek atomowych okrętów podwodnych </h2>
    <p>
      Kiedy 30 grudnia 1954 roku została po raz pierwszy uruchomiona nuklearna siłownia okrętu USS "Nautilus", a 18 dni później, 17
