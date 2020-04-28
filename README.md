@@ -1,18 +1,16 @@
 # TI
 <html>  
   <body>
-    <div style="text-align:center;border:1px solid blue;font-family:'Courier New';font-size:24px;color:blue">
-      <h1
-       Radzieckie okręty o napędzie atomowym
-      </h1>
+    <div style="text-align:center;background-color:lightblue;border:5px solid blue;color:blue;font-family:'Courier New';font-size:24px">
+     <h1>ROSYJSKIE OKRĘTY O NAPĘDZIE ATOMOWYM</h3>
     </div>
-    <h2> Początek atomowych okrętów podwodnych </h2>
+   <h2> Początek atomowych okrętów podwodnych </h2>
    <p>
      Kiedy 30 grudnia 1954 roku została po raz pierwszy uruchomiona nuklearna siłownia okrętu USS "Nautilus", a 18 dni później, 17
      stycznia 1955 roku okręt odpłynął od nabrzeża i popłynął w dół rzeki Thames w USA rozpoczęła się nowa era w historii okrętów 
      podwodnych.
-     Okrętem dowodził kmdr. Eugene’a P. Wilkinsona, który lampą sygnałową nadał historyczny sygnał: „Underway on nuclear power” (w drodze 
-     na energii nuklearnej).
+     Okrętem dowodził kmdr. Eugene’a P. Wilkinsona, który lampą sygnałową nadał historyczny sygnał: „Underway on nuclear power” (w 
+     drodze na energii nuklearnej).
    </p>
    <p>
      3 sierpnia 1958 roku „Nautilus” jako pierwszy okręt przepłynął pod biegunem północnym, a przeprowadzone zarówno przez marynarkę 
@@ -21,7 +19,9 @@
      dużego zaniepokojenia dowództw marynarki amerykańskiej, które zdawały sobie sprawę z faktu, że Związek Radziecki kończy 
      już prace nad własnym okrętem podwodnym z napędem jądrowym.
    </p>
-    <h3><i> Tabela wybranych okrętów o napędzie atomowym </i></h3>
+    <div style ="text-align:center">
+      <h3><i> Tabela wybranych okrętów o napędzie atomowym </i></h3>
+    </div>
    <table>
      <tr>
        <th> Typ </th>
